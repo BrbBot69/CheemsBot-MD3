@@ -41,24 +41,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94741311260'] //ur owner number
-global.ownername = "𝙳͜𝙴𝚇ͥ𝚃𝙴𝚁 ͣ- ͫ𝚈𝚃𝚇ツ"
-global.ytname = "YT:DEXTER" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['27767494368'] //ur owner number
+global.ownername = "𝕬𝖛𝖊.𝕭ツ"
+global.ytname = "." //ur yt chanel name
+global.socialm = "GitHub: BrbBot69" //ur github or insta name
+global.location = "South Africa" //ur location
 
 //bot bombdy
-global.botname = "Cheems Bot MD V3" //ur bot name
+global.botname = "𝕬𝖛𝖊𝕭𝖔𝖙 𝕸𝕯" //ur bot name
 global.websitex = "https://youtube.com/channel/UClbMkzmyQ4kJwEF2y7jl9Zw" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "𝙳͜𝙴𝚇ͥ𝚃𝙴𝚁 ͣ- ͫ𝚈𝚃𝚇ツ"
+global.packname = "𝕬𝖛𝖊𝕭𝖔𝖙 Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
+global.author = "𝕬𝖛𝖊.𝕭☚⍢⃝☚ツ"
 global.themeemoji = "🐶"
 global.reactmoji = "💖"
-global.ownertag = ['94741311260'] //ur owner tag
-global.ownernummenu = ['94741311260'] //ur owner number in menu and all
-global.watermark = "Dexter Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
+global.ownertag = ['27767494368'] //ur owner tag
+global.ownernummenu = ['27767494368'] //ur owner number in menu and all
+global.watermark = "𝕬𝖛𝖊𝕭𝖔𝖙 𝕸𝕯 Inc." //ur watermark
+global.botscript = "null"
 global.linkz1 = "https://chat.whatsapp.com/KG4PgFqlCAV6e26rQG1ddT"
 global.linkz2 = "https://chat.whatsapp.com/KG4PgFqlCAV6e26rQG1ddT"
 
